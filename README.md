@@ -35,7 +35,7 @@ Negociar com forncedores que estão irregulares na Receita Federal, por exemplo,
     Empresas que contratam fornecedores irregulares podem ser penalizadas com a suspensão de contratos com o poder público ou até com a inabilitação em licitações.
 
 
-Para trazer para a área de negócio visibilidade sobre a condição geral dos fornecedores junto à Receita Federal é que desenvolvemos uma solução de engenharia de dados que irá extrair do banco de dados a informação do CNPJ de todos os fornecedores cadastrados enviar a uma api com a base da Receita Federal atualizada, que por sua vez irá retornar todos os dados do registro do CNPJ.
+Com objetico de trazer para a área de negócio visibilidade sobre a condição geral dos fornecedores junto à Receita Federal é que desenvolvemos uma solução de engenharia de dados que irá extrair do banco de dados a informação do CNPJ de todos os fornecedores cadastrados enviar a uma api com a base da Receita Federal atualizada, que por sua vez irá retornar todos os dados do registro do CNPJ.
 
 A análise destes dados visa identificar fornecedores em situação irregular, concentração demográfica e de CNAES para que as áreas de Compras, Fiscal , Suprimentos e Complience tomem decisões baseadas em dados fiáveis e atualizados.
 
